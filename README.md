@@ -1,5 +1,3 @@
-# analog_ic_and_systems_EEM512
-
 
 # Analog IC and Systems Laboratory (EEM512)
 
