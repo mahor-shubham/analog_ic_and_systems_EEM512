@@ -233,6 +233,7 @@ Through these experiments, practical understanding was developed in:
 | Name | Shubham Mahor |
 | Branch | Electrical Engineering (Electronics) |
 | Semester | 5th Semester |
+| Batch | 2023-2027 |
 | Course Code | EEM512 |
 | Course | Analog IC and Systems Laboratory |
 | Institute | Dayalbagh Educational Institute, Agra |
