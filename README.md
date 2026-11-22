@@ -231,7 +231,6 @@ Through these experiments, practical understanding was developed in:
 | Detail | Information |
 |---|---|
 | Name | Shubham Mahor |
-| Roll Number | 2104690 |
 | Branch | Electrical Engineering (Electronics) |
 | Semester | 5th Semester |
 | Course Code | EEM512 |
